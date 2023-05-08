@@ -8,7 +8,7 @@ public class home_work_1_2 {
         // int[] arr2 = {1, 2, 3, 4, 5};
         int[] arr2 = {1, 2, 3, 4, 5, 6, 7};
 
-        sumArray(arr1, arr2);
+        // sumArray(arr1, arr2);
         printArray(sumArray(arr1, arr2));
 
     }
